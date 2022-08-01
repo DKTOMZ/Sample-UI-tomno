@@ -1,5 +1,6 @@
 # home_screen_app
-A simple Home Screen UI built with flutter
+A simple Home Screen UI built with flutter.
+Tested on android only
 
 ## Getting Started
 
