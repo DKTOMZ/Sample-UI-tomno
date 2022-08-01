@@ -1,6 +1,5 @@
 # home_screen_app
-
-A new Flutter project.
+A simple Home Screen UI built with flutter
 
 ## Getting Started
 
